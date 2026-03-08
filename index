@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tran Dang Phat | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Trần Đăng Phát</h1>
+        <p>Computer Software Engineering Student at SaiGon University</p>
+        <div class="contact">
+            <a href="mailto:phattran280704@gmail.com">Email</a> | 
+            <a href="https://github.com/pt287">GitHub</a> | 
+            <a href="https://linkedin.com/in/pt287">LinkedIn</a>
+        </div>
+    </header>
+
+    <section id="about">
+        <h2>Giới thiệu</h2>
+        <p>Sinh viên CNTT đam mê phát triển phần mềm và tối ưu hóa hệ thống. Hiện đang sở hữu GPA 2.31/4.0 và tập trung vào các công nghệ Java, C# và DevOps.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Dự án tiêu biểu</h2>
+        <div class="project-card">
+            <h3>NearBite - AI Audio Guide</h3>
+            <p>Sử dụng Java & Spring Boot để tự động hóa thuyết minh phố ẩm thực dựa trên vị trí GPS.</p>
+        </div>
+        <div class="project-card">
+            <h3>QuanLyKS - Hotel Management</h3>
+            <p>Hệ thống quản lý khách sạn bằng Java Swing & MySQL, tối ưu hóa quy trình đặt phòng.</p>
+        </div>
+    </section>
+
+    <section id="skills">
+        <h2>Kỹ năng</h2>
+        <ul>
+            <li>Lập trình: C#, Java, Spring Boot, React, SQL</li>
+            <li>DevOps: Docker, GitHub Actions</li>
+            <li>Công cụ: Git, VS Code, WPS Office</li>
+        </ul>
+    </section>
+</body>
+</html>
